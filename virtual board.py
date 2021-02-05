@@ -8,7 +8,7 @@ cap = cv2.VideoCapture(0)
 cap.set(3, frameWidth)
 cap.set(4, frameHeight)
 cap.set(10,150)
-
+# here use Color ection.py and add the value in myColors
 myColors=[[15,104,7,85,255,255],
           [161,95,55,179,255,255],
           [35,93,112,107,255,255]]
